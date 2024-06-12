@@ -1,0 +1,8 @@
+@font-face{
+    font-family: "automali";src: url(./font/Automali.ttf);
+}
+.folder-font{
+    font-family: automali;
+}
+.google-font  { font-family: "Montserrat", sans-serif; tamaño-óptico-de-fuente: automático; peso de fuente: <peso>; estilo de fuente: normal; } 
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
